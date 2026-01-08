@@ -105,7 +105,7 @@ function App() {
               </>
             )}
           </h1>
-          <p>Your personalized message goes here 💗</p>
+          <p>You make every moment special 💖</p>
         </section>
 
         <Countdown
@@ -171,7 +171,9 @@ function App() {
         <Gallery isActive={currentPage === 4} />
         <section className="final">
           <h2 className="final-message">💖 </h2>
-          <p className="final-subtitle">Your personalized closing message ✨</p>
+          <p className="final-subtitle"> Once again I wish you a very happiest birthday yaar 🥰🤞🏼
+                                          Just always stay happy and always be keep smiling.✨
+                                       "Always Cheering For You, In Every Way That Matters"</p>
         </section>
       </div>
 
