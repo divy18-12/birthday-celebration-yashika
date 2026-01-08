@@ -20,12 +20,14 @@ You are my safe place on hard days and my biggest reason to smile on good ones.
 Every laugh we share, every secret we keep, and every memory we create makes my life more beautiful.
 
 Thank you for standing by me through everything—without judging, without leaving,
-Life feels lighter, happier, and so much better with you by my side.✨🥰
+I know sometimes i feel a bit annyoing butt really Life feels lighter, happier, and so much better with you by my side🥺✨🥰
 
 On your special day, I wish you endless happiness, peace in your heart, and success in everything you do.
 May this year bring you closer to your dreams and fill your life with love and laughter 🤍
 
 I’m so grateful for you today and always.
+
+HAPPYY BIRTHDAYYY TOPPERRRR🥳🥳
 
 — [ULLU]`;
 
